@@ -38,7 +38,7 @@ function Category() {
                         onClick={nextSlide} ><FaArrowRight /></div>
                 </div>
             </div>
-            <div className='flex  overflow-hidden '>
+            <div className='flex overflow-hidden '>
                 {
                     categories.map(
                         (cat, index) => {

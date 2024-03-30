@@ -25,6 +25,7 @@ function Card(props) {
     )
 }
 
+// rating star svg
 const Star = (props) => {
     return (
         <svg
